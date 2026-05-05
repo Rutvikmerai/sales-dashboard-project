@@ -25,7 +25,11 @@ Source: Kaggle or Tableau Sample Data
 g)
 
 ## Key Insights
-- Add your real insights here after analysis.
+1. The Central region generated the highest sales, followed by South and North, while Canada and the Caribbean contributed the least.
+2. Technology is the top-performing category, with higher sales than Furniture and Office Supplies.
+3. Sales show a consistent upward trend from 2011 to 2014, indicating strong business growth over time.
+4. A small number of products (mainly smartphones) contribute significantly to total sales, showing a high concentration of revenue among top products.
+5. Lower-performing regions and products represent potential opportunities for growth if properly targeted.
 
 ## How to Run
 1. Clone this repository
