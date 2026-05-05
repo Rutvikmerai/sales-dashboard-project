@@ -21,7 +21,8 @@ Source: Kaggle or Tableau Sample Data
 - Jupyter Notebook
 
 ## Dashboard Preview
-![Sales Dashboard](images/sales_dashboard.png)
+<img width="4800" height="3000" alt="sales_dashboard" src="https://github.com/user-attachments/assets/4de155d7-7b0a-422f-9c9a-3b9f0ef2163b" />
+g)
 
 ## Key Insights
 - Add your real insights here after analysis.
