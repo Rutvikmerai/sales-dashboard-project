@@ -32,10 +32,10 @@ g)
 5. Lower-performing regions and products represent potential opportunities for growth if properly targeted.
 
 ## Business Recommendations
-Increase focus on the Central region through targeted marketing and inventory expansion.
-Review discount strategies to prevent profit loss.
-Promote high-performing products to maximize revenue.
-Investigate seasonal trends to optimize inventory planning.
+1. Increase focus on the Central region through targeted marketing and inventory expansion.
+2. Review discount strategies to prevent profit loss.
+3. Promote high-performing products to maximize revenue.
+4. Investigate seasonal trends to optimize inventory planning.
 
 ## How to Run
 1. Clone this repository
